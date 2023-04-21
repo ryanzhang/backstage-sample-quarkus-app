@@ -1,6 +1,6 @@
 # my-quarkus-app
 
-
+This is a awesome goden path, show me how it work!
 
 ## Running the application in dev mode
 
